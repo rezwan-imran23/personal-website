@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+*{margin: 0;padding: 0;}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.top-banner{
+    background-image: url("../images/header-bg.png");
+    height: 1100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.biography{
+    background-image: url("../images/biography-bg.png");
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+
+}
+
+.latest-work{
+    background-image: url("../images/latest-work-bg.png");
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+
+}
+
+.footer{
+    background-image: url("../images/footer-bg.png");
+    height: 1100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
